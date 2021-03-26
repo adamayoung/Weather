@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OpenWeather",
+        "repositoryURL": "https://github.com/adamayoung/OpenWeather.git",
+        "state": {
+          "branch": "main",
+          "revision": "c998f6584b5c2f726f2232cd185a2281cba1d68e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
